@@ -177,4 +177,5 @@ cython_debug/
 /HW2/archive/
 /HW2/__pycache__
 /HW2/archive
-*.code-workspace
+/*.code-workspace
+NLP.code-workspace
